@@ -1,2 +1,2 @@
 # Data Science Python Projects
-Analyzing various datasets using Python in Jupyter-Notebooks 
+Analyzing various datasets using Python via Jupyter-Notebook
